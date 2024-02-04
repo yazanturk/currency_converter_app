@@ -6,6 +6,10 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
+## before running the project, you need to install the dependencies by running the following command:
+# dart run build_runner build --delete-conflicting-outputs
+this command will generate the necessary files for the project to run.
+
 # How Build the project
 
 # Implement Clean Architecture:
