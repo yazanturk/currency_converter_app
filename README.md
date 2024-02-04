@@ -56,7 +56,7 @@ Additionally, the library provides offline support,
 enabling users to view previously loaded images even without an internet connection.
 This is particularly advantageous for applications in scenarios with intermittent or limited network access.
 
-# You Have mMde a Choice Hive Library for Local Storage :
+# You Have Made a Choice Hive Library for Local Storage :
 Hive is a fast, and efficient NoSQL database for Flutter that can be easily integrated into your project.
 
 
