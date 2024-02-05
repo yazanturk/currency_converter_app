@@ -17,7 +17,7 @@ class CurrencyLocallyModelAdapter extends TypeAdapter<CurrencyLocallyModel> {
       for (int i = 0; i < numOfFields; i++) reader.readByte(): reader.read(),
     };
     return CurrencyLocallyModel(
-      currencies: (fields[0] as Map).cast<String, num>(),
+      currencies: (fields[0] as Map).cast<String, dynamic>(),
     );
   }
 
